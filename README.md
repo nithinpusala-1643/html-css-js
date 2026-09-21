@@ -1,8 +1,8 @@
 # HTML, CSS & JavaScript Practical Programs Website
 
 ## Student Details
-- **Student Name:** M.N. Siddhartha Reddy
-- **Register Number:** 250200267
+- **Student Name:** p.nithin
+- **Register Number:** 250200185
 - **Class / Section:** 5
 - **Subject:** Web Technology and Internet Programming
 - **Assignment:** Complete HTML, CSS and JavaScript Practical Programs Website
